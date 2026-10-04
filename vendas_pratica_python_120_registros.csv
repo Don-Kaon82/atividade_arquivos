@@ -1,0 +1,121 @@
+id_venda,produto,categoria,valor_unitario,quantidade,canal
+1001,Notebook,Eletronico,3040.0,1,Online
+1002,Caderno,Papelaria,18.5,4,Loja
+1003,Smartphone,Eletronico,1942.5,7,Online
+1004,Caneta Azul,Papelaria,4.95,10,Online
+1005,Tablet,Eletronico,931.0,13,Loja
+1006,Mochila,Acessorio,189.9,16,Online
+1007,Fone de Ouvido,Eletronico,314.89,19,Online
+1008,Mouse,Informatica,87.89,2,Loja
+1009,Teclado,Informatica,142.41,5,Online
+1010,Monitor,Eletronico,899.9,8,Online
+1011,Agenda,Papelaria,33.6,11,Loja
+1012,Carregador USB,Eletronico,98.89,14,Online
+1013,Estojo,Acessorio,24.22,17,Online
+1014,Webcam,Informatica,219.9,20,Loja
+1015,Cabo HDMI,Informatica,41.9,3,Online
+1016,Impressora,Eletronico,824.89,6,Online
+1017,Papel A4,Papelaria,28.4,9,Loja
+1018,Pendrive 64GB,Informatica,54.9,12,Online
+1019,Calculadora,Papelaria,47.25,15,Online
+1020,Suporte para Notebook,Acessorio,131.89,18,Loja
+1021,SSD 1TB,Informatica,408.4,1,Online
+1022,Caixa de Som,Eletronico,179.9,4,Online
+1023,Grampeador,Papelaria,26.14,7,Loja
+1024,Hub USB,Informatica,76.89,10,Online
+1025,Garrafa Termica,Acessorio,75.91,13,Online
+1026,Notebook,Eletronico,3200.0,16,Loja
+1027,Caderno,Papelaria,19.43,19,Online
+1028,Smartphone,Eletronico,2035.0,2,Online
+1029,Caneta Azul,Papelaria,4.27,5,Loja
+1030,Tablet,Eletronico,980.0,8,Online
+1031,Mochila,Acessorio,199.4,11,Online
+1032,Fone de Ouvido,Eletronico,329.89,14,Loja
+1033,Mouse,Informatica,75.91,17,Online
+1034,Teclado,Informatica,149.9,20,Online
+1035,Monitor,Eletronico,944.89,3,Loja
+1036,Agenda,Papelaria,35.2,6,Online
+1037,Carregador USB,Eletronico,85.41,9,Online
+1038,Estojo,Acessorio,25.5,12,Loja
+1039,Webcam,Informatica,230.9,15,Online
+1040,Cabo HDMI,Informatica,43.89,18,Online
+1041,Impressora,Eletronico,712.4,1,Loja
+1042,Papel A4,Papelaria,29.9,4,Online
+1043,Pendrive 64GB,Informatica,57.65,7,Online
+1044,Calculadora,Papelaria,49.5,10,Loja
+1045,Suporte para Notebook,Acessorio,113.91,13,Online
+1046,SSD 1TB,Informatica,429.9,16,Online
+1047,Caixa de Som,Eletronico,188.9,19,Loja
+1048,Grampeador,Papelaria,27.39,2,Online
+1049,Hub USB,Informatica,66.41,5,Online
+1050,Garrafa Termica,Acessorio,79.9,8,Loja
+1051,Notebook,Eletronico,3360.0,11,Online
+1052,Caderno,Papelaria,20.35,14,Online
+1053,Smartphone,Eletronico,1757.5,17,Loja
+1054,Caneta Azul,Papelaria,4.5,20,Online
+1055,Tablet,Eletronico,1029.0,3,Online
+1056,Mochila,Acessorio,208.89,6,Loja
+1057,Fone de Ouvido,Eletronico,284.9,9,Online
+1058,Mouse,Informatica,79.9,12,Online
+1059,Teclado,Informatica,157.4,15,Loja
+1060,Monitor,Eletronico,989.89,18,Online
+1061,Agenda,Papelaria,30.4,1,Online
+1062,Carregador USB,Eletronico,89.9,4,Loja
+1063,Estojo,Acessorio,26.78,7,Online
+1064,Webcam,Informatica,241.89,10,Online
+1065,Cabo HDMI,Informatica,37.9,13,Loja
+1066,Impressora,Eletronico,749.9,16,Online
+1067,Papel A4,Papelaria,31.39,19,Online
+1068,Pendrive 64GB,Informatica,60.39,2,Loja
+1069,Calculadora,Papelaria,42.75,5,Online
+1070,Suporte para Notebook,Acessorio,119.9,8,Online
+1071,SSD 1TB,Informatica,451.39,11,Loja
+1072,Caixa de Som,Eletronico,197.89,14,Online
+1073,Grampeador,Papelaria,23.65,17,Online
+1074,Hub USB,Informatica,69.9,20,Loja
+1075,Garrafa Termica,Acessorio,83.9,3,Online
+1076,Notebook,Eletronico,3520.0,6,Online
+1077,Caderno,Papelaria,17.57,9,Loja
+1078,Smartphone,Eletronico,1850.0,12,Online
+1079,Caneta Azul,Papelaria,4.73,15,Online
+1080,Tablet,Eletronico,1078.0,18,Loja
+1081,Mochila,Acessorio,180.41,1,Online
+1082,Fone de Ouvido,Eletronico,299.9,4,Online
+1083,Mouse,Informatica,83.9,7,Loja
+1084,Teclado,Informatica,164.89,10,Online
+1085,Monitor,Eletronico,854.9,13,Online
+1086,Agenda,Papelaria,32.0,16,Loja
+1087,Carregador USB,Eletronico,94.4,19,Online
+1088,Estojo,Acessorio,28.05,2,Online
+1089,Webcam,Informatica,208.91,5,Loja
+1090,Cabo HDMI,Informatica,39.9,8,Online
+1091,Impressora,Eletronico,787.39,11,Online
+1092,Papel A4,Papelaria,32.89,14,Loja
+1093,Pendrive 64GB,Informatica,52.15,17,Online
+1094,Calculadora,Papelaria,45.0,20,Online
+1095,Suporte para Notebook,Acessorio,125.9,3,Loja
+1096,SSD 1TB,Informatica,472.89,6,Online
+1097,Caixa de Som,Eletronico,170.91,9,Online
+1098,Grampeador,Papelaria,24.9,12,Loja
+1099,Hub USB,Informatica,73.4,15,Online
+1100,Garrafa Termica,Acessorio,87.89,18,Online
+1101,Notebook,Eletronico,3040.0,1,Loja
+1102,Caderno,Papelaria,18.5,4,Online
+1103,Smartphone,Eletronico,1942.5,7,Online
+1104,Caneta Azul,Papelaria,4.95,10,Loja
+1105,Tablet,Eletronico,931.0,13,Online
+1106,Mochila,Acessorio,189.9,16,Online
+1107,Fone de Ouvido,Eletronico,314.89,19,Loja
+1108,Mouse,Informatica,87.89,2,Online
+1109,Teclado,Informatica,142.41,5,Online
+1110,Monitor,Eletronico,899.9,8,Loja
+1111,Agenda,Papelaria,33.6,11,Online
+1112,Carregador USB,Eletronico,98.89,14,Online
+1113,Estojo,Acessorio,24.22,17,Loja
+1114,Webcam,Informatica,219.9,20,Online
+1115,Cabo HDMI,Informatica,41.9,3,Online
+1116,Impressora,Eletronico,824.89,6,Loja
+1117,Papel A4,Papelaria,28.4,9,Online
+1118,Pendrive 64GB,Informatica,54.9,12,Online
+1119,Calculadora,Papelaria,47.25,15,Loja
+1120,Suporte para Notebook,Acessorio,131.89,18,Online
